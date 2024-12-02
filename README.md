@@ -1,5 +1,6 @@
 E-commerce Projeto Final
-Este projeto é um sistema de e-commerce desenvolvido como parte do trabalho final da disciplina. Ele inclui funcionalidades para cadastro de usuários, autenticação, gestão de produtos e integração com uma cesta de compras.
+Este projeto é um sistema de e-commerce desenvolvido como parte do trabalho final da disciplina e tambem do segundo bimestre. Ele inclui funcionalidades para cadastro de usuários, autenticação, gestão de produtos e integração com uma cesta de compras, Tela de fornecedores integrada com o backend, utilizando autenticação com token JWT, dentre outras requisições para a conclusão do projeto 
+
   ------ ------- ------ -------
 Tecnologias Utilizadas
 Backend: Node.js, Express, Sequelize
