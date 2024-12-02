@@ -55,3 +55,14 @@ Execute as migrações para criar as tabelas no banco:
 -Inicie o servidor de desenvolvimento:
 
 -npm start
+ ------ ------- ------ -------
+
+ Detalhe importante (atualizado 02/12/24 13:30)
+
+ para iniciar o backend -> node app.js
+
+ para iniciar o frontend -> npm start
+ 
+*O Backend roda na porta :3000
+
+ *O Frontend abre na porta :3001
